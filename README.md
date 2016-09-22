@@ -3,7 +3,7 @@
 Recomendación de lugares donde comer y beber por la comunidad de GDLJS
 
 * [Comida](#comida)
-* [Café](#cafe)
+* [Café](#café)
 * [Bebidas](#bebidas)
 
 ## Cómo Colaborar
