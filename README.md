@@ -2,6 +2,10 @@
 
 Recomendación de lugares donde comer y beber por la comunidad de GDLJS
 
+* [Comida](#comida)
+* [Café](#cafe)
+* [Bebidas](#bebidas)
+
 ## Cómo Colaborar
 
 Haz un PR modificando este documento, que contenga una entrada en una de las secciones con el siguiente formato:
@@ -47,7 +51,7 @@ Café Brutal
 * [Ubicación](https://www.google.com/maps/place/El+Terrible+Juan+Caf%C3%A9/@20.6694248,-103.3675168,17z/data=!3m1!4b1!4m5!3m4!1s0x8428ae06a535bd89:0x1d7fdbe2c158ed3e!8m2!3d20.6694248!4d-103.3653228?hl=en)
 * [Facebook](https://www.facebook.com/elterriblejuancafe/), [Foursquare](https://es.foursquare.com/v/el-terrible-juan/54d261c7498e80ec448f5d68)
 
-## Beber
+## Bebidas
 
 ### Black Sheep Pub
 
