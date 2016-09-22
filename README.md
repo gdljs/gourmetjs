@@ -21,6 +21,8 @@ Una descripción corta del lugar y tipo de cómida
 * [Menú](<link_opcional_directo_al_menu>)
 ```
 
+Solo una recomendación por PR pls
+
 #### Rangos de Precios
 
 ```
