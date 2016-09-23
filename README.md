@@ -43,6 +43,15 @@ Carnes asadas
 * [Facebook](https://www.facebook.com/parrillalares), [Foursquare](https://es.foursquare.com/v/la-res-p%C3%BAblica/522e27b611d24147a607158b)
 * [Menú](https://www.tripadvisor.com/LocationPhotoDirectLink-g150798-d7252182-i154007414-La_Res_Publica-Guadalajara_Guadalajara_Metropolitan_Area.html)
 
+### Tai Spice
+
+Comida Tailandesa, Fancy Place, Poke Stop 
+
+* $$
+* [Ubicación](https://www.google.com.mx/maps/place/Tai+Spice/@20.6814413,-103.419102,15z/data=!4m2!3m1!1s0x0:0x49e535650beb3643?sa=X&ved=0ahUKEwjMk9b7tqbPAhVr0oMKHTlZDg4Q_BIIfzAK)
+* [Sitio](http://www.taispice.com/), [Facebook](https://www.facebook.com/pages/Tai-Spice-Restaurante-Bar/133360630032487),
+
+
 ## Café
 
 ### El Terrible Juan
