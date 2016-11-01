@@ -51,6 +51,13 @@ Comida Tailandesa, Fancy Place, Poke Stop
 * [Ubicación](https://www.google.com.mx/maps/place/Tai+Spice/@20.6814413,-103.419102,15z/data=!4m2!3m1!1s0x0:0x49e535650beb3643?sa=X&ved=0ahUKEwjMk9b7tqbPAhVr0oMKHTlZDg4Q_BIIfzAK)
 * [Sitio](http://www.taispice.com/), [Facebook](https://www.facebook.com/pages/Tai-Spice-Restaurante-Bar/133360630032487),
 
+### Pizza del Perro Negro 
+
+Pastas, pizzas y cerveza artesanal.
+
+* $$
+* [Ubicación](https://www.google.com/maps/place/Pizza+del+Perro+Negro+Guadalajara/@20.6720193,-103.3701756,17z/data=!3m1!4b1!4m5!3m4!1s0x8428ae05a504c71f:0x5acedbf10a662c21!8m2!3d20.6720193!4d-103.3679869)
+* [Sitio](http://www.pizzadelperronegro.com/)
 
 ## Café
 
