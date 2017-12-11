@@ -79,7 +79,7 @@ Bowls Hawaiianos <3
 * [Foursquare] (https://foursquare.com/v/woke-poke)
 
 
-### Cervecheria
+### Cervecheria
 
 Aguachile + Aguacates Rellenos
 
@@ -107,6 +107,14 @@ Pizzas, Pasta y Volcanes de Chocolate
 * [Ubicación] (https://goo.gl/maps/EPpNeSXvbU72)
 * [Facebook] (https://www.facebook.com/PetitePizzeria/)
 
+### Ponte Trucha Negro
+
+De los mejores Mariscos de la Ciudad, Aguachile from Heaven!
+
+* $$
+* [Ubicación] (https://goo.gl/maps/UnjWcqjJSqm)
+* [Facebook] (https://www.facebook.com/Ponte-Trucha-Negro-639558749427604/)
+
 ## Café
 
 ### El Terrible Juan
@@ -126,3 +134,19 @@ Buena música y tarros baratos
 * $
 * [Ubicación](https://www.google.com/maps/place/Libertad+1850,+Americana,+44160+Guadalajara,+Jal.,+Mexico/@20.673146,-103.3657716,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x8428ae048ae5f7e5:0x91392e2b21a5441c!2sLibertad+1890,+Americana,+44160+Guadalajara,+Jal.,+Mexico!3b1!8m2!3d20.6731413!4d-103.3658735!3m4!1s0x8428ae0487e1ceef:0x42d75a601adde4d0!8m2!3d20.673146!4d-103.3652231?hl=en)
 * [Página](http://www.theblacksheep.mx/), [Facebook](https://www.facebook.com/blacksheepgdl/), [Foursquare](https://es.foursquare.com/v/black-sheep/50dbd1a7e4b05e3a09a8ea81)
+
+### La Ultima Lucha
+
+Pulquería
+
+* $
+* [Ubicación] (https://goo.gl/maps/z1gsyNoQ3mB2)
+* [Facebook] (https://www.facebook.com/La-Ultima-Lucha-Pulqueria-1033602596735211/)
+
+### La Occidental Cantina
+
+Cantina old-school en el centro, te dan comida gratis por beber
+
+* $
+* [Ubicación] (https://goo.gl/maps/C241daY1LpJ2)
+* [Facebook] (https://www.facebook.com/laoccidentalcantina/)
