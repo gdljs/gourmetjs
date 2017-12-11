@@ -59,6 +59,62 @@ Pastas, pizzas y cerveza artesanal.
 * [Ubicación](https://www.google.com/maps/place/Pizza+del+Perro+Negro+Guadalajara/@20.6720193,-103.3701756,17z/data=!3m1!4b1!4m5!3m4!1s0x8428ae05a504c71f:0x5acedbf10a662c21!8m2!3d20.6720193!4d-103.3679869)
 * [Sitio](http://www.pizzadelperronegro.com/)
 
+### La Gran Lucha
+
+LAS Hamburguesas
+
+* $$
+* [Ubicación](https://goo.gl/maps/1sqCr68uUPB2)
+* [Ubicación](https://goo.gl/maps/G5epFCoeNy72)
+* [Facebook](https://www.facebook.com/lagranluchamx/)
+
+### Woke Poke
+
+Bowls Hawaiianos <3
+
+* $$
+* [Ubicación] (https://goo.gl/maps/T7nGtQHjwbp)
+* [Sitio] (http://wokepoke.com/)
+* [Facebook] (https://www.facebook.com/Wokepokegdl)
+* [Foursquare] (https://foursquare.com/v/woke-poke)
+
+
+### Cervecheria
+
+Aguachile + Aguacates Rellenos
+
+* $
+* [Ubicación] (https://goo.gl/maps/Qxo7QkHTfrv)
+* [Facebook] (https://www.facebook.com/cervecheria/)
+
+
+### The Rooster Kitchen
+
+Hamburguesas, Ensaladas, 50% Probabilidades de Chela gratis el jueves
+
+* $$
+* [Ubicación] (https://goo.gl/maps/XbbPAT8ft1S2)
+* [Sitio] (http://www.theroosterkitchen.com/)
+* [Facebook] (https://www.facebook.com/TheRoosterKitchen)
+* [Foursquare] (https://foursquare.com/v/the-rooster-kitchen/53a99b2e498eb4c81d45bc62)
+
+
+### Petite Pizzeria
+
+Pizzas, Pasta y Volcanes de Chocolate
+
+* $
+* [Ubicación] (https://goo.gl/maps/EPpNeSXvbU72)
+* [Facebook] (https://www.facebook.com/PetitePizzeria/)
+
+### Ponte Trucha Negro
+
+De los mejores Mariscos de la Ciudad, Aguachile from Heaven!
+
+* $$
+* [Ubicación] (https://goo.gl/maps/UnjWcqjJSqm)
+* [Facebook] (https://www.facebook.com/Ponte-Trucha-Negro-639558749427604/)
+
 ## Café
 
 ### El Terrible Juan
@@ -78,3 +134,19 @@ Buena música y tarros baratos
 * $
 * [Ubicación](https://www.google.com/maps/place/Libertad+1850,+Americana,+44160+Guadalajara,+Jal.,+Mexico/@20.673146,-103.3657716,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x8428ae048ae5f7e5:0x91392e2b21a5441c!2sLibertad+1890,+Americana,+44160+Guadalajara,+Jal.,+Mexico!3b1!8m2!3d20.6731413!4d-103.3658735!3m4!1s0x8428ae0487e1ceef:0x42d75a601adde4d0!8m2!3d20.673146!4d-103.3652231?hl=en)
 * [Página](http://www.theblacksheep.mx/), [Facebook](https://www.facebook.com/blacksheepgdl/), [Foursquare](https://es.foursquare.com/v/black-sheep/50dbd1a7e4b05e3a09a8ea81)
+
+### La Ultima Lucha
+
+Pulquería
+
+* $
+* [Ubicación] (https://goo.gl/maps/z1gsyNoQ3mB2)
+* [Facebook] (https://www.facebook.com/La-Ultima-Lucha-Pulqueria-1033602596735211/)
+
+### La Occidental Cantina
+
+Cantina old-school en el centro, te dan comida gratis por beber
+
+* $
+* [Ubicación] (https://goo.gl/maps/C241daY1LpJ2)
+* [Facebook] (https://www.facebook.com/laoccidentalcantina/)
